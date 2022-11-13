@@ -1,4 +1,4 @@
-package iterator.ex1;
+package com.iterator.ex1;
 
 public class MainEntry {
   public static void main(String[] args) {
